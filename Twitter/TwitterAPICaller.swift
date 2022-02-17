@@ -13,7 +13,7 @@ import BDBOAuth1Manager
 // API KEY SECRET: XdhDegNfqjDCOo8e2ocyQHdbrFLgFk0fHu1ZEL4IefLJ1Iglx3
 
 class TwitterAPICaller: BDBOAuth1SessionManager {    
-    static let client = TwitterAPICaller(baseURL: URL(string: "https://api.twitter.com"), consumerKey: "rgFK85hOESkvmTLsukxJVJGhF", consumerSecret: "XdhDegNfqjDCOo8e2ocyQHdbrFLgFk0fHu1ZEL4IefLJ1Iglx3")
+    static let client = TwitterAPICaller(baseURL: URL(string: "https://api.twitter.com"), consumerKey: "5lUJuO5AUpPUCez4ewYDFrtgh", consumerSecret: "s5ynGqXzstUZwFPxVyMDkYh197qvHOcVM3kwv1o2TKhS1avCdS")
     var loginSuccess: (() -> ())?
     var loginFailure: ((Error) -> ())?
     
