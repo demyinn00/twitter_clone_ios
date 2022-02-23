@@ -14,7 +14,7 @@ The following **required** functionality is completed:
 
 - [x] User can compose a tweet. (4pts)
 - [x] User can favorite a tweet. (4pts)
-- [x] User can retweet a tweet. (2pts)
+- [ ] User can retweet a tweet. (2pts) I implemented the feature, but for some reason it doesn't work. The code is identical to the tutorial 
 
 The following **bonus** features are implemented:
 
